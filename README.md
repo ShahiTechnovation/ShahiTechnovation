@@ -1,14 +1,15 @@
+````
 <!-- ========================================================= -->
 <!--                    SYSTEM IDENTIFICATION                  -->
 <!-- ========================================================= -->
 
 <h1 align="center">⚡ Punit Pal</h1>
 <h3 align="center">
-Web3 × AI Engineer • Infra Builder • Ecosystem Architect  
+Web3 × AI Engineer • Infra Builder • Ecosystem Architect
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Web3+Developer+Infrastructure;Solidity+→+Rust+→+WASM+Pipelines;AI+×+Onchain+Tooling;Hackathons+as+High-Signal+Builder+Factories;From+Zero-Code+to+Production-Grade+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Web3+Developer+Infrastructure;Solidity+to+Rust+to+WASM+Pipelines;AI+%C3%97+Onchain+Tooling;Hackathons+as+High-Signal+Builder+Factories;From+Zero-Code+to+Production-Grade+Systems" />
 </p>
 
 <p align="center">
@@ -19,23 +20,25 @@ Web3 × AI Engineer • Infra Builder • Ecosystem Architect
 
 ---
 
-## 🧠 EXECUTIVE SUMMARY
+## 🧠 Executive Summary
 
-```
+```txt
 Role        : Web3 × AI Engineer
 Core Skill  : Developer Infrastructure & Tooling
 Domain      : Blockchain, AI, Open Source, Communities
 Scale       : Students → Builders → Founders
-I design systems, not just projects.
+````
 
-I build developer tools, not demos
+I design **systems**, not just projects.
+I build **developer tools**, not demos.
+I design **pipelines**, not tutorials.
+I scale **ecosystems**, not events.
 
-I design pipelines, not tutorials
+---
 
-I scale ecosystems, not events
+## 🧩 System Architecture — Builder Base
 
-🧩 SYSTEM ARCHITECTURE — BUILDER BASE
-
+```txt
 ┌──────────────────────────────────────────────┐
 │                BUILDER BASE                  │
 │        Web3 × AI Developer Infrastructure    │
@@ -54,72 +57,83 @@ I scale ecosystems, not events
 │  ▸ Startup MVPs                              │
 │  ▸ OSS Contributors                          │
 └──────────────────────────────────────────────┘
+```
 
-🛠 CORE ENGINEERING FOCUS
-🔗 Web3
-Smart Contract Architecture (EVM)
+---
 
-Solidity → Rust Transpilation
+## 🛠 Core Engineering Focus
 
-WASM-based execution (Stylus)
+### 🔗 Web3
 
-Cross-chain & protocol tooling
+* Smart Contract Architecture (EVM)
+* Solidity → Rust Transpilation
+* WASM-based execution (Stylus)
+* Cross-chain & protocol tooling
 
-🤖 AI
-AI-assisted developer workflows
+### 🤖 AI
 
-Code generation & analysis
+* AI-assisted developer workflows
+* Code generation & analysis
+* Builder productivity tooling
+* AI × Onchain integrations
 
-Builder productivity tooling
+### 🧱 Infrastructure Thinking
 
-AI × Onchain integrations
+* Developer Experience (DX)
+* CLI tools & SDKs
+* Open-source scalability
+* System design for communities
 
-🧱 Infra Thinking
-Developer Experience (DX)
+---
 
-CLI tools & SDKs
+## 🧪 Flagship Projects
 
-Open-source scalability
+### ⚙️ Sol2Rust
 
-System design for communities
+**Solidity → Rust converter for Arbitrum Stylus**
 
-🧪 FLAGSHIP PROJECTS
-⚙️ Sol2Rust
-Solidity → Rust converter for Arbitrum Stylus
+```txt
+Input   : Solidity Smart Contract
+Process : AST Parsing → Semantic Mapping
+Output  : Rust (Stylus-compatible)
+```
 
-txt
-Copy code
-Input  : Solidity Smart Contract
-Process: AST Parsing → Semantic Mapping
-Output : Rust (Stylus-compatible)
-Why it matters
+**Why it matters**
 
-Bridges EVM developers to Rust/WASM ecosystems
+* Bridges EVM developers to Rust/WASM ecosystems
+* Lowers entry barrier to Stylus
+* Enables cross-ecosystem portability
 
-Lowers entry barrier to Stylus
+---
 
-Enables cross-ecosystem portability
+### 🧩 stylus-sdk-rs (Fork)
 
-🧩 stylus-sdk-rs (Fork)
-Contributing to low-level Rust SDK tooling for Arbitrum Stylus.
+Contributing to **low-level Rust SDK tooling** for Arbitrum Stylus.
 
-🧠 Experimental Repos
+---
 
-CLI utilities
+### 🧠 Experimental Repositories
 
-Frontend demos
+* CLI utilities
+* Frontend demos
+* Developer productivity tools
+* Learning-by-building artifacts
 
-Dev productivity tools
+> Every repository exists to **test an idea**, **learn a system**, or **validate a workflow**.
 
-Learning-by-building artifacts
+---
 
-Every repo exists to test an idea, learn a system, or validate a workflow.
+## 🧬 Tech Stack (Production-Oriented)
 
-🧬 TECH STACK (REAL, NOT BUZZWORDS)
-<p align="center"> <img src="https://skillicons.dev/icons?i=solidity,rust,ts,react,python,cpp,html,css,tailwind,git,github,linux,vercel,firebase,supabase,figma,threejs&perline=8" /> </p>
-🧠 ENGINEERING THEMES
-yaml
-Copy code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,rust,ts,react,python,cpp,html,css,tailwind,git,github,linux,vercel,firebase,supabase,figma,threejs&perline=8" />
+</p>
+
+---
+
+## 🧠 Engineering Themes
+
+```yaml
 principles:
   - builder_first
   - infra_over_apps
@@ -133,29 +147,71 @@ interests:
   - devtooling
   - protocol_education
   - ecosystem_design
-📊 SIGNAL METRICS (AUTO)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahiTechnovation&show_icons=true&theme=radical&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahiTechnovation&theme=radical&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahiTechnovation&layout=compact&theme=radical&hide_border=true" height="140"/> </p>
-🏆 ENGINEERING ACHIEVEMENTS
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ShahiTechnovation&theme=matrix&no-frame=true&row=1&column=7" /> </p>
-🧠 ASK ME ABOUT
-Web3 from zero → protocol-level
+```
 
-Hackathons as builder pipelines
+---
 
-Developer tooling & DX
+## 📊 Engineering Signals
 
-Community → ecosystem scaling
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahiTechnovation&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahiTechnovation&theme=radical&hide_border=true" height="160"/>
+</p>
 
-Student → builder → founder journeys
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahiTechnovation&layout=compact&theme=radical&hide_border=true" height="140"/>
+</p>
 
-⚡ FUN FACT
-txt
-Copy code
+---
+
+## 🏆 Engineering Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShahiTechnovation&theme=matrix&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🧠 Ask Me About
+
+* Web3 from **zero → protocol-level**
+* Hackathons as **builder pipelines**
+* Developer tooling & DX
+* Community → ecosystem scaling
+* Student → builder → founder journeys
+
+---
+
+## ⚡ Fun Fact
+
+```txt
 First hackathon:
   coding_skill = 0
   confidence   = 100
   result       = 🏆
-Now I design systems so others can win faster & smarter.
+```
 
-🌐 CONNECT
-<p align="center"> <a href="https://linkedin.com/in/punit05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a> <a href="https://x.com/its_punit05"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/></a> <a href="https://instagram.com/impure.me"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a> <a href="mailto:founder@builderbase.xyz"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a> </p> <p align="center"> <img src="https://visitcount.itsvg.in/api?id=ShahiTechnovation&label=Profile%20Views&pretty=true" /> </p> <!-- ========================================================= --> <!-- BUILD SYSTEMS. SHIP TOOLS. SCALE BUILDERS. --> <!-- ========================================================= -->
+Now I design systems so **others can win faster & smarter**.
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/punit05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/its_punit05"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/impure.me"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+  <a href="mailto:founder@builderbase.xyz"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ShahiTechnovation&label=Profile%20Views&pretty=true" />
+</p>
+
+<!-- ========================================================= -->
+
+<!--        BUILD SYSTEMS. SHIP TOOLS. SCALE BUILDERS.         -->
+
+<!-- ========================================================= -->
+
+```
