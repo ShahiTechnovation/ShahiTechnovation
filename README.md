@@ -28,10 +28,10 @@ Domain      : Blockchain, AI, Open Source, Communities
 Scale       : Students → Builders → Founders
 
 
-I design **systems**, not just projects.
-I build **developer tools**, not demos.
-I design **pipelines**, not tutorials.
-I scale **ecosystems**, not events.
+I design systems, not just projects.
+I build developer tools, not demos.
+I design pipelines, not tutorials.
+I scale ecosystems, not events.
 
 ---
 
