@@ -21,7 +21,7 @@ Web3 × AI Engineer • Infra Builder • Ecosystem Architect
 
 ## 🧠 EXECUTIVE SUMMARY
 
-```txt
+```
 Role        : Web3 × AI Engineer
 Core Skill  : Developer Infrastructure & Tooling
 Domain      : Blockchain, AI, Open Source, Communities
@@ -35,8 +35,7 @@ I design pipelines, not tutorials
 I scale ecosystems, not events
 
 🧩 SYSTEM ARCHITECTURE — BUILDER BASE
-txt
-Copy code
+
 ┌──────────────────────────────────────────────┐
 │                BUILDER BASE                  │
 │        Web3 × AI Developer Infrastructure    │
@@ -55,6 +54,7 @@ Copy code
 │  ▸ Startup MVPs                              │
 │  ▸ OSS Contributors                          │
 └──────────────────────────────────────────────┘
+
 🛠 CORE ENGINEERING FOCUS
 🔗 Web3
 Smart Contract Architecture (EVM)
@@ -104,6 +104,7 @@ Enables cross-ecosystem portability
 Contributing to low-level Rust SDK tooling for Arbitrum Stylus.
 
 🧠 Experimental Repos
+
 CLI utilities
 
 Frontend demos
