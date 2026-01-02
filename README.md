@@ -1,4 +1,3 @@
-````
 <!-- ========================================================= -->
 <!--                    SYSTEM IDENTIFICATION                  -->
 <!-- ========================================================= -->
@@ -27,7 +26,7 @@ Role        : Web3 × AI Engineer
 Core Skill  : Developer Infrastructure & Tooling
 Domain      : Blockchain, AI, Open Source, Communities
 Scale       : Students → Builders → Founders
-````
+
 
 I design **systems**, not just projects.
 I build **developer tools**, not demos.
