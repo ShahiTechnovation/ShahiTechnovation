@@ -59,7 +59,7 @@ pyvax deploy --chain fuji
 ## 🏆 Hackathon Wins — 4x Champion
 
 | 🏅 | Event | Project | Date |
-|---|---|---|---|---|
+|---|---|---|---|
 | 🥇 1st Place | **Core Nexus Hackathon** | Sol2Rust (Solidity → Rust transpiler for Arbitrum Stylus) | Apr 2025 |
 | 🥈 1st Runner-Up | **AVAX Kolkata · T1-Hack25** | PyVax v0 (Python → EVM for Avalanche) | Sept 2025 |
 | 🥈 1st Runner-Up | **Monad Delhi** | PyMon (Python smart contracts for Monad) | Nov 2025 |
