@@ -58,14 +58,14 @@ pyvax deploy --chain fuji
 
 ## 🏆 Hackathon Wins — 4x Champion
 
-| 🏅 | Event | Project | Prize | Date |
+| 🏅 | Event | Project | Date |
 |---|---|---|---|---|
-| 🥇 1st Place | **Core Nexus Hackathon** | Sol2Rust (Solidity → Rust transpiler for Arbitrum Stylus) | ₹50,000 | Apr 2025 |
-| 🥈 1st Runner-Up | **AVAX Kolkata · T1-Hack25** | PyVax v0 (Python → EVM for Avalanche) | $500 | Sept 2025 |
-| 🥈 1st Runner-Up | **Monad Delhi** | PyMon (Python smart contracts for Monad) | $500 | Nov 2025 |
-| 🥈 1st Runner-Up | **BrahmaX 1.0** | NeuroFit (AI-powered fitness platform) | ₹3,000 | May 2025 |
+| 🥇 1st Place | **Core Nexus Hackathon** | Sol2Rust (Solidity → Rust transpiler for Arbitrum Stylus) | Apr 2025 |
+| 🥈 1st Runner-Up | **AVAX Kolkata · T1-Hack25** | PyVax v0 (Python → EVM for Avalanche) | Sept 2025 |
+| 🥈 1st Runner-Up | **Monad Delhi** | PyMon (Python smart contracts for Monad) | Nov 2025 |
+| 🥈 1st Runner-Up | **BrahmaX 1.0** | NeuroFit (AI-powered fitness platform) | May 2025 |
 | 🔥 Top 10 | **FBI Hackathon** | X4PN (decentralized VPN, pay USDC, earn tokens) | Finalist | Jan 2026 |
-| 🏔️ In Review | **Avalanche Build Games 2026** | PyVax v0.3.0 | — | Mar 2026 |
+| 🏔️ In Review | **Avalanche Build Games 2026** | PyVax v0.3.0 | Mar 2026 |
 
 ---
 
