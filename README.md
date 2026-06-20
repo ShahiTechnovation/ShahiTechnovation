@@ -2,7 +2,7 @@
 
 # ⚡ Punit Pal · `impure.me`
 
-**Compiler Builder · 4x Hackathon Winner · Ecosystem Architect**
+**Compiler Builder · 5x Hackathon Winner · Ecosystem Architect**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Syntax.+EVM+Semantics.;Building+PyVax+%E2%80%94+Python+%E2%86%92+Avalanche+C-Chain;Founder+%40+Builder+Base+%7C+3500%2B+Builders;4x+Hackathon+Winner+%7C+Aptos+%7C+Arbitrum+%7C+Avalanche+%7C+Monad)](https://readme-typing-svg.herokuapp.com)
 
