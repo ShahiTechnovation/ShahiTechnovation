@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Custom cover; no external image service required -->
-<img src="./assets/cover.svg" width="100%" alt="Punit Pal — Technical Founder, Engineer and Ecosystem Builder" />
+<!-- Hand-designed animated banner (GIF) with a static fallback in assets/hero-preview.png -->
+<img src="./assets/hero.gif" width="100%" alt="Punit Pal — Technical Founder, Engineer and Ecosystem Builder" />
 
 <br />
 
@@ -12,7 +12,7 @@
 
 <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=5DE4E7&center=true&vCenter=true&width=820&height=42&lines=I+build+products%2C+developer+tools+%26+ecosystems.;From+compiler+pipelines+to+multi-agent+workflows.;From+shipping+code+to+bringing+builders+together." alt="Animated introduction" /></a>
+
 
 **ENGINEERING × DEVREL × GTM × COMMUNITY**
 
@@ -138,7 +138,7 @@ An onchain-oriented privacy and access product exploring USDC payments and token
 
 <div align="center">
 
-<a href="https://builderbase.xyz"><img src="./assets/builder-base.svg" width="100%" alt="Builder Base — The distribution layer for builders" /></a>
+<a href="https://builderbase.xyz"><img src="./assets/builder-base.png" width="100%" alt="Builder Base — The distribution layer for builders" /></a>
 
 </div>
 
@@ -186,11 +186,9 @@ What I work on beyond writing code:
 
 ### `05 / MY TOOLKIT`
 
-<div align="center">
+**Languages:** Python · TypeScript · Rust · Solidity · JavaScript  
+**Frameworks & tools:** React · Astro · Next.js · Node.js · FastAPI · Postgres · Foundry · Vercel
 
-[![Skills](https://skillicons.dev/icons?i=python,ts,js,rust,solidity,react,nextjs,astro,nodejs,fastapi,postgres,git,github,vercel,figma&perline=8)](https://skillicons.dev)
-
-</div>
 
 **Systems:** compiler pipelines, AST transformations, EVM/Move ecosystems, agent orchestration, developer tooling  
 **Products:** React, Astro, Next.js, TypeScript, APIs, Postgres, serverless deployment  
